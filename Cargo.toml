@@ -1,0 +1,13 @@
+[package]
+name = "lz4_net_legacy"
+version = "0.1.0"
+authors = ["patrette"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+lz4_flex = { version = "0.11.2", default-features = false}
+bytes = "1.5.0"
+bytes-varint = "1.0.3"
+bitflags = "2.4.1"
