@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["patrette"]
 edition = "2021"
 license = "MIT"
+description = "About implementation of the C# LZ4Net stream format in rust using lz4flex"
 repository = "https://github.com/Patrette/LZ4NetLegacyRust"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
